@@ -1,0 +1,16 @@
+{
+  "name": "loadash-examples",
+  "version": "1.0.0",
+  "main": "assigment.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "inquirer": "^12.4.2",
+    "loadash-examples": "file:"
+  }
+}
