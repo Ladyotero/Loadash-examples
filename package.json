@@ -2,6 +2,7 @@
   "name": "loadash-examples",
   "version": "1.0.0",
   "main": "assigment.js",
+  "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },

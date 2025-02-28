@@ -84,7 +84,7 @@ const fruits A = {
     berries: { strawberries: 8 }
 };
 
-const fruitsB = {
+const fruits B = {
     apples: { green: 7, yellow: 2 },
     bananas: { ripe: 2, unripe: 3 },
     citrus: { oranges: 4, lemons: 6 }
